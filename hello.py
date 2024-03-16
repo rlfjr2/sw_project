@@ -1,1 +1,5 @@
-print("Hello World')
+a = input("오늘의기분은?? > ")
+if a == ("심심해"):
+    print ("나도ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ")
+else:
+    print ("어쩌라고ㅗㅗㅗㅗ")
